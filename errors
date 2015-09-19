@@ -1,0 +1,23 @@
+--[[ Dvg Error code explanation for Cloud
+
+#201.1 'Could not connect to server'
+  WHAT  The computer is unable to reach the server
+        computer within timeout (5 sec).
+  FIX   Run CloudServer on the server computer.
+
+#201.2 'Username or password incorrect'
+  WHAT  You have typed the wrong compination of
+        username and password.
+  FIX   Check your spelling or create an account.
+
+#201.31 'Passwords do not correspond'
+  WHAT  In the register process, you typed in 2
+        different passwords.
+  FIX   Check your spelling ans CAPS.
+
+#201.32 'Username already exists. Choose another'
+  WHAT  In the register process, you chose an
+        username that was already token.
+  FIX   Like the error code said, choose another.
+
+]]--

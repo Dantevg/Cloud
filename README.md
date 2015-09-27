@@ -2,7 +2,7 @@
 ###### **!** This page is still under construction. Please come back later.
 
 ### Requirements
-- `.DvgFiles` installation
+- [`.DvgFiles`](https://github.com/dantevg/DvgApps#how-to-install-dvgfiles) installation
 - Wireless modem
 
 ### Installation

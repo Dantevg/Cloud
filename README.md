@@ -1,6 +1,10 @@
 # Cloud
 ###### **!** This page is still under construction. Please come back later.
 
+### Requirements
+- `.DvgFiles` installation
+- Wireless modem
+
 ### Installation
 ...
 

@@ -11,5 +11,5 @@
 **Fix:** Check your spelling and CAPS.
 
 #### Username already exists. Choose another
-**What:** In the register process, you chose an username that was already token.  
+**What:** In the register process, you chose an username that was already taken.  
 **Fix:** Like the error code said, choose another.
